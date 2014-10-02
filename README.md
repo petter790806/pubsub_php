@@ -2,7 +2,7 @@ pubsub_php
 ======guide======
 1.Code should be run on Apache server, and we use google pubsubhubbub hub as example.
 2.The publisher_class/subscriber_class respectively define the implement function of publish/subscribe
-3.The callback is specified by subscriber, it will be informed when subscriber ssubscribe to a feed or when a RSS feed update is published.
+3.The callback is specified by subscriber, it will be informed when subscriber subscribe to a feed or when a RSS feed update is published.
 4.The testfeed is a RSS feed for test.
 ===implement instruction===
 1.Start up the code with subscribe.php, and set up your own callback url and RSS feed. Choose either of subscribe and unsubscribe function.
