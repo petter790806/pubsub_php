@@ -1,4 +1,4 @@
-pubsub_php
+pubsub_php<b>
 ======guide======
 1.Code should be run on Apache server, and we use google pubsubhubbub hub as example.
 2.The publisher_class/subscriber_class respectively define the implement function of publish/subscribe
