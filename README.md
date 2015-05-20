@@ -1,5 +1,5 @@
 <b>pubsub_php</b><p>
-<b>======guide======</b><br>
+<b>===guide===</b><br>
 [1] Code should be run on Apache server, and we use google pubsubhubbub hub as example.<br>
 [2] The publisher_class/subscriber_class respectively define the implement function of publish/subscribe<br>
 [3] The callback is specified by subscriber, it will be informed when subscriber subscribe to a feed or when a RSS feed update is published.<br>
